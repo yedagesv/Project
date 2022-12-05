@@ -23,9 +23,11 @@ body {
 .wid-25 {
     width: 25%;
 }
-.wid-75{
-float: left;
+
+.wid-75 {
+    width: 75%;
 }
+
 .next-row {
     clear: both;
 }
