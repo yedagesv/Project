@@ -1,7 +1,6 @@
 .header {
     margin-top: 25px;
     min-height: 60px;
-
 }
 
 .logo h1 {
@@ -203,4 +202,26 @@ search-product input:focus {
     font-size: 20px;
     padding-left: 20px;
     font-weight: 600;
+}
+
+/*  */
+.category-item {
+    border: 1px solid #ccc;
+    padding: 30px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.category-item .product-count {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.category-item .category-img img {
+    width: 100%;
+}
+
+.category-item .category-type h5 {
+    margin-bottom: 0;
+    font-size: 25px;
 }
